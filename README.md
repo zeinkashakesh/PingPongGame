@@ -20,6 +20,12 @@ This project is a classic Pong-inspired paddle game featuring:
         Hard: Fast and highly accurate opponent.
 
 Perfect for learning game development basics with Python or just enjoying a quick match!
+
+Views:
+
+![image](https://github.com/user-attachments/assets/9a6550a5-04a5-417e-9f1b-c5e8bcbba9d6)
+![image](https://github.com/user-attachments/assets/a3c6a005-3e28-408a-84b6-bef774af14ed)
+
 ⚙️ Features
 
     
